@@ -1,0 +1,150 @@
+body {
+    background-color: #eaeaf3;
+    margin: 0;
+
+}
+
+header {
+    width: auto;
+    height: 150px;
+    background-color: #003366;
+    text-align: center;
+    color: aliceblue;
+    
+    
+
+}
+
+h1 {
+    padding-top: 30px;
+}
+
+
+nav {
+    background-color: #002b5c;
+    text-align: center;
+    height: 25px;
+    padding-top: 10px;
+    position: sticky;
+
+
+}
+
+a {
+    margin-top: 50px;
+    color: aliceblue;
+    padding-left: 30px;
+}
+
+.full {
+    padding: 20px;
+}
+
+/* Vision */
+
+
+#Vision {
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+    height: 150px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#V {
+    padding-top: 20px;
+    color: rgb(4, 4, 101);
+}
+
+
+/* Mission */
+
+#Mission {
+    height: 200px;
+    width: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#mh {
+    padding-top: 30px;
+    color: rgb(4, 4, 101);
+}
+
+#ml {
+    padding-left: 40px;
+}
+
+/* Program Specific Outcomes (PSOS) */
+#Program {
+    background-color: white;
+    height: 150px;
+    width: auto;
+    border-radius: 10px;
+    padding-inline-start: 10px;
+}
+
+#ph {
+    padding-top: 30px;
+    color: rgb(4, 4, 101);
+}
+
+
+#pl {
+    padding-left: 30px;
+}
+
+
+/* Courses Offered */
+#Courses {
+    height: 180px;
+    width: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+#ch {
+    padding-top: 30px;
+    color: rgb(4, 4, 101);
+}
+
+#cl {
+    padding-left: 40px;
+}
+
+#Top {
+    height: 230px;
+    width: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+#th {
+    padding-top: 30px;
+    color: rgb(4, 4, 101);
+}
+
+#tl {
+    padding-left: 40px;
+}
+
+/* footer */
+
+footer {
+    background-color: #003366;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    margin-top: 15px;
+    color: aliceblue;
+
+}
+
+#foot {
+    padding-top: 8px;
+}
